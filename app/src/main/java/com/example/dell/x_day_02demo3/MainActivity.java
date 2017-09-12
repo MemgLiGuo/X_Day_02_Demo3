@@ -14,6 +14,10 @@ public class MainActivity extends AppCompatActivity {
 
     private void initData() {
 
+            initaaa();
+    }
+
+    private void initaaa() {
 
     }
 }
